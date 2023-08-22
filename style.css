@@ -17,7 +17,7 @@ body {
   margin: 0;
   font-size: 150px;
   color: rgba(225,225,225, .01);
-  background-image: url(/dnm.png);
+  background-image: url(dnm.png);
   background-repeat: repeat;
   -webkit-background-clip:text;
   animation: animate 15s ease-in-out infinite;
