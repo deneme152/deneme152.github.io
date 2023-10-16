@@ -12,6 +12,11 @@ h1{
   color: rgb(253, 50, 155);
 }
 
+.a1{
+  position: absolute;
+  right: 0px;
+}
+
 .cards {
   position: relative;
 }
@@ -83,7 +88,7 @@ h1{
   height: 50px;
   transition: .3s;
   margin-left: 50%;
-  margin-top: 30%;
+  margin-top: 10%;
 }
 
 .heart-container .checkbox {
