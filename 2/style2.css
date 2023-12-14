@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-    background-color: rgb(41, 40, 40);
+    background-color: rgb(67, 25, 126);
     font-family: 'Raleway', sans-serif;
 }
 
@@ -9,7 +9,7 @@ h1{
   margin-right: 20%;
   margin-left: 25%;
   font-size: 50px;
-  color: rgb(253, 50, 155);
+  color: rgb(255, 219, 12);
 }
 
 .a1{
@@ -37,7 +37,7 @@ h1{
 .card.zero {
   top: -145px;
   left: -175px;
-  background: linear-gradient(180deg, #0ea8c7 0%, #fa00ff 100%);
+  background: linear-gradient(180deg, #34036b 0%, #9901ff 100%);
 }
 
 .card.one {
@@ -78,11 +78,11 @@ h1{
 
 .cardDetailsHaeder {
   font-weight: 600;
-  color: #edb899;
+  color: #e1ff00;
 }
 
 .heart-container {
-  --heart-color: rgb(255, 91, 137);
+  --heart-color: rgb(91, 255, 255);
   position: relative;
   width: 50px;
   height: 50px;
